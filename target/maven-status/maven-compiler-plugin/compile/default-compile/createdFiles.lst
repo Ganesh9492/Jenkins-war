@@ -1,0 +1,5 @@
+BOI\views\FrontView.class
+BOI\components\TextLabel.class
+BOI\MyApplicationModule.class
+BOI\ServletConfig.class
+BOI\views\RootView.class
